@@ -4,7 +4,7 @@
 		<title>Tori Becher</title>
 	</head>
 	<body style="color: green; font-family: Calisto MT; font-size: 18px">
-	    <img src="http://www.rsc.org/chemistryworld/sites/default/files/upload/sunflower_shutterstock_300.jpg"/>
+	    <br><img src="http://www.rsc.org/chemistryworld/sites/default/files/upload/sunflower_shutterstock_300.jpg"/>
 	    <p>I'm 23 years old, female, from Indianapolis.</p>
 	    <ul>
 	        <li>Interests</li>
