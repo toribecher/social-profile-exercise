@@ -1,5 +1,4 @@
 # social-profile-exercise
-my social profile
 <html>
 	<head>
 		<title>Tori Becher</title>
