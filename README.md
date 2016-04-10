@@ -30,16 +30,7 @@
 	                <li>"Train your mind to see the <strong>good in everything</strong>."</li>
 	            </ul>
 	    </ul>
-	</body>
-
-#table
-    <head>
-        <title>Table Time</title>
-    </head>
-    
-    <body>
-        
-        <table style="border-collapse:collapse;">
+	    <table style="border-collapse:collapse;">
             <thead>
                 <tr style="color: red">
                     <th colspan="2">Famous Monsters by Birth Year</th>
@@ -66,7 +57,6 @@
                 </tr>
             </tbody>
         </table>
-        
-    </body>
+	</body>
 
 </html>
