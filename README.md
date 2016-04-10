@@ -31,10 +31,8 @@
 	            </ul>
 	    </ul>
 	</body>
-</html>
 
 #table
-<html>
     <head>
         <title>Table Time</title>
     </head>
